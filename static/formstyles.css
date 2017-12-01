@@ -1,0 +1,29 @@
+form{
+    width: 40%;
+
+}
+
+fieldset{
+    margin: 2px 7px 2px 7px;
+    padding: 3px;
+}
+
+h1{
+    text-align: center;
+}
+
+input{
+    display: inline-block;
+    margin: 3px;
+    padding: 2px;
+    
+}
+
+#submitButton{
+    float:right;
+    clear:right;
+}
+
+.error{
+    color: red;
+}
